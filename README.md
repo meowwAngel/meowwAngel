@@ -4,7 +4,6 @@ I'm a 13 year old who loves programming, playing games, and debugging my code..
 A discord bot, called blissful (open src) scripted in python
 # Goals 🎯
 Make a fully functional discord bot for moderation and just fun
-# Discord: plutomeow
 # The tools I use 🔨
 VS Code
 <br>
@@ -23,3 +22,5 @@ Cicada - Good kid
 She said no - boywithuke
 <br>
 treehouse - alex g
+<br>
+**Discord: plutomeow**
