@@ -29,3 +29,4 @@ treehouse - alex g
 <br>
 <br>
 **Discord: plutomeow**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?meowwangel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
