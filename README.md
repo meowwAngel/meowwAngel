@@ -1,5 +1,7 @@
 # Welcome to my evil github profile, kitties.. 🐱
 I'm a 13 year old who loves programming, playing games, and debugging my code..
+<br>
+I also really love catppuccin themes
 # What I'm working on
 A discord bot, called blissful (open src) scripted in python
 # Goals 🎯
