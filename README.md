@@ -8,6 +8,6 @@ Visual Studio Code with extensions <img width="1919" height="1030" alt="image" s
 <br>
 Notepad++
 <br>
-**Discord (for ideas, give me ideas by joining the discord on my profile!): plutomeow**
+**Discord (for ideas, give me ideas by joining the discord on my profile!): suicidalplanet**
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowwangel&show_icons=true&theme=tokyonight)
